@@ -1,0 +1,15 @@
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\bin\Debug\MKUComChecker.exe.config
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\bin\Debug\MKUComChecker.exe
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\bin\Debug\MKUComChecker.pdb
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.csproj.AssemblyReference.cache
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.Form1.resources
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.Properties.Resources.resources
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.csproj.GenerateResource.cache
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.csproj.CoreCompileInputs.cache
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.exe
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.pdb
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\bin\Debug\MKUComChecker.exe.manifest
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\bin\Debug\MKUComChecker.application
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.exe.manifest
+C:\Users\mkursadulusoy\source\repos\MKUComChecker\MKUComChecker\obj\Debug\MKUComChecker.application
